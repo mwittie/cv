@@ -18,6 +18,7 @@
               scheme-medium  # covers geometry, graphicx, hyperref, color
               bibunits
               enumitem
+              latexmk
               pdfpages
               titlesec
               psnfss          # provides \usepackage{times}
