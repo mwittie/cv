@@ -3,7 +3,7 @@
 To build, run:
 
 ```bash
-nix-develop --pure --command "make"
+nix develop --command make
 ```
 
 Open `tmp/main.pdf`.
