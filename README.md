@@ -6,4 +6,4 @@ To build, run:
 nix-develop --pure --command "make"
 ```
 
-Find `out/cv.pdf`.
+Open `tmp/main.pdf`.
