@@ -1,0 +1,6 @@
+# latexindent local settings
+defaultIndent: "    "
+
+noAdditionalIndent:
+  itemize: 1
+
