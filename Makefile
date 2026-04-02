@@ -9,7 +9,7 @@ all: cv
 cv: tmp/main.pdf
 
 tmp/main.pdf: $(SRC) $(BIB)
-	latexmk -pdf main.tex
+	@latexmk -pdf main.tex
 
 clean:
-	rm -rf tmp
+	@rm -rf tmp
